@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noah1400
-- 👀 I’m interested in a lot of programming languages such as Java, C or PHP.
+- 👀 I’m interested in several programming languages such as Java, PHP, Python and Javascript.
 - 🌱 I’m currently learning the programming language C.
 
 <!---
