@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pauldev20&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=noah1400&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldev20&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=pauldev20&theme=dark&line_height=40">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah1400&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=noah1400&theme=dark&line_height=40">
   </div>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pauldev&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=noah1400&show_icons=true&theme=dark">
 </div>
 
 - 👋 Hi, I’m @noah1400
