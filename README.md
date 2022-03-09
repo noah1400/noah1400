@@ -7,9 +7,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=noah1400&theme=dark&line_height=40">
   </div>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=noah1400&show_icons=true&theme=dark">
-</div>
 
 <!---
 noah1400/noah1400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
